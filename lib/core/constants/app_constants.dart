@@ -6,8 +6,8 @@ class AppConstants {
   static const String role = "Flutter Developer";
   static const String tagline = "Building high-performance, beautiful cross-platform applications with pixel-perfect precision.";
 
-  static const String email = "yaseenmalik@example.com"; // Replace with your actual email
-  static const String githubUrl = "https://github.com";
+  static const String email = "yaseenmalik.coder@gmail.com";
+  static const String githubUrl = "https://Malik399758@github.com";
   static const String linkedinUrl = "https://linkedin.com";
   static const String youtubeUrl = "https://youtube.com";
   static const String cvUrl = "https://example.com/resume.pdf";

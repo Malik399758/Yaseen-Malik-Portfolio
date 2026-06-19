@@ -86,11 +86,11 @@ class _ProjectCardState extends State<ProjectCard> {
             Row(
               children: [
                 if (widget.project.githubLink != null)
-                  IconButton(
+                  /*IconButton(
                     icon: const Icon(Icons.launch, size: 20),
                     tooltip: "Source Code",
                     onPressed: () => UrlService.launchURL(widget.project.githubLink!),
-                  ),
+                  ),*/
                 const Spacer(),
                 const Text("View Project", style: TextStyle(color: AppColors.accent, fontSize: 13, fontWeight: FontWeight.w600)),
               ],

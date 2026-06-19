@@ -14,22 +14,28 @@ class TimelineModel {
 }
 
 final List<TimelineModel> academicTimeline = [
+
   const TimelineModel(
-    period: "2023 - Present",
-    title: "Bachelor of Science in Mechanical Engineering",
-    institution: "CECOS University of Information Technology and Emerging Sciences",
-    description: "Applying critical core engineering logic, advanced mathematics, and systematic problem-solving vectors while translating analytical design approaches directly to high-scale software architectures.",
+    period: "2022 - 2026",
+    title: "Bachelor of Science in Software Engineering",
+    institution: "CECOS University of IT & Emerging Sciences",
+    description:
+    "Currently pursuing a comprehensive degree focused on software development, data structures, algorithms, database systems, and modern application engineering practices.",
   ),
+
   const TimelineModel(
     period: "2024",
-    title: "Advanced Flutter & State Management Certification",
-    institution: "Self-Driven Specialized Track",
-    description: "Deep-dived into building modular patterns, declarative architectures, lifecycle management optimizations, and secure reactive data binding mechanics across platforms.",
+    title: "Flutter Development & State Management Focus",
+    institution: "Self-Learning & Project-Based Growth",
+    description:
+    "Specialized in Flutter development including UI architecture, REST API integration, Firebase services, and state management techniques for scalable mobile applications.",
   ),
+
   const TimelineModel(
     period: "2023",
-    title: "Foundations of Software Systems & OOP",
+    title: "Programming Fundamentals & OOP Mastery",
     institution: "Self-Learning Journey",
-    description: "Mastered algorithmic processes, Object-Oriented design matrices, code structural modularity metrics, and robust local/remote database synchronization paradigms.",
+    description:
+    "Built strong foundation in programming logic, Object-Oriented Programming (OOP), data structures, and software design principles.",
   ),
 ];
